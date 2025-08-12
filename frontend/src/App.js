@@ -68,7 +68,7 @@ function AppContent({ mode, toggleColorMode }) {
           gutterBottom
           sx={{ fontWeight: 700, color: "primary.main" }}
         >
-          Study Material for 12th Standard
+          The Study Material for 12th Standard
         </Typography>
         <Typography variant="h6" color="text.secondary" gutterBottom>
           We’re launching soon!
