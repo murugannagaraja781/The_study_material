@@ -71,7 +71,7 @@ function AppContent({ mode, toggleColorMode }) {
           The Study Material for 12th Standard
         </Typography>
         <Typography variant="h6" color="text.secondary" gutterBottom>
-          We’re launching soon!!
+          We’re launching soon!!!!
         </Typography>
         <Typography variant="body1" color="text.secondary" sx={{ mb: 3 }}>
           Quality study materials, notes, and guides for 12th grade students —
