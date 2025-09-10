@@ -1,0 +1,2222 @@
+[
+  {
+    "chapter": "Chapter 1: Nature and Significance of Management",
+    "questions": [
+      {
+        "id": "C1Q1",
+        "question": "Comparing actual performance with planned standards shows:",
+        "options": [
+          "Planning",
+          "Controlling",
+          "Organising",
+          "Directing"
+        ],
+        "answer": "Controlling",
+        "marks": 1
+      },
+      {
+        "id": "C1Q2",
+        "question": "Achieving goals with minimum cost is called:",
+        "options": [
+          "Effectiveness",
+          "Efficiency",
+          "Coordination",
+          "Goal orientation"
+        ],
+        "answer": "Efficiency",
+        "marks": 1
+      },
+      {
+        "id": "C1Q3",
+        "question": "Top-level management mainly performs:",
+        "options": [
+          "Day-to-day supervision",
+          "Framing policies",
+          "Motivating workers",
+          "Handling grievances"
+        ],
+        "answer": "Framing policies",
+        "marks": 1
+      },
+      {
+        "id": "C1Q4",
+        "question": "Marketing coordinating with production reflects:",
+        "options": [
+          "Pervasive nature",
+          "Coordination",
+          "Goal orientation",
+          "Dynamic function"
+        ],
+        "answer": "Coordination",
+        "marks": 1
+      },
+      {
+        "id": "C1Q5",
+        "question": "Applying principles in organising a school fest shows management is:",
+        "options": [
+          "Goal-oriented",
+          "Pervasive",
+          "Multidimensional",
+          "Science"
+        ],
+        "answer": "Pervasive",
+        "marks": 1
+      },
+      {
+        "id": "C1Q6",
+        "question": "Using statistical data + intuition shows management as:",
+        "options": [
+          "Art only",
+          "Science only",
+          "Both art and science",
+          "Profession"
+        ],
+        "answer": "Both art and science",
+        "marks": 1
+      },
+      {
+        "id": "C1Q7",
+        "question": "Reducing wastage of resources highlights:",
+        "options": [
+          "Effectiveness",
+          "Efficiency",
+          "Coordination",
+          "Profession"
+        ],
+        "answer": "Efficiency",
+        "marks": 1
+      },
+      {
+        "id": "C1Q8",
+        "question": "A hospital appoints professional managers. This shows:",
+        "options": [
+          "Science",
+          "Profession",
+          "Art",
+          "Goal orientation"
+        ],
+        "answer": "Profession",
+        "marks": 1
+      },
+      {
+        "id": "C1Q9",
+        "question": "Policies change with environment shows management is:",
+        "options": [
+          "Universal",
+          "Dynamic",
+          "Tangible",
+          "Multidimensional"
+        ],
+        "answer": "Dynamic",
+        "marks": 1
+      },
+      {
+        "id": "C1Q10",
+        "question": "Manager sets monthly targets and motivates workers. Functions used:",
+        "options": [
+          "Planning and directing",
+          "Directing and controlling",
+          "Staffing and organising",
+          "Planning and controlling"
+        ],
+        "answer": "Planning and directing",
+        "marks": 1
+      },
+      {
+        "id": "C1Q11",
+        "question": "Middle level management mainly ensures:",
+        "options": [
+          "Formulation of policies",
+          "Execution of plans",
+          "Supervision of workers",
+          "None of these"
+        ],
+        "answer": "Execution of plans",
+        "marks": 1
+      },
+      {
+        "id": "C1Q12",
+        "question": "Management is considered intangible because:",
+        "options": [
+          "It is pervasive",
+          "It cannot be seen but felt",
+          "It is goal oriented",
+          "It is science"
+        ],
+        "answer": "It cannot be seen but felt",
+        "marks": 1
+      },
+      {
+        "id": "C1Q13",
+        "question": "Balancing organisational and personal goals shows:",
+        "options": [
+          "Effectiveness",
+          "Coordination",
+          "Multidimensional nature",
+          "Goal orientation"
+        ],
+        "answer": "Multidimensional nature",
+        "marks": 1
+      },
+      {
+        "id": "C1Q14",
+        "question": "A manager reconciles departmental goals with overall objectives. This shows:",
+        "options": [
+          "Unity of direction",
+          "Coordination",
+          "Efficiency",
+          "Discipline"
+        ],
+        "answer": "Coordination",
+        "marks": 1
+      },
+      {
+        "id": "C1Q15",
+        "question": "Ensuring effective utilisation of resources shows management as:",
+        "options": [
+          "Social objective",
+          "Goal oriented",
+          "Efficient",
+          "Tangible"
+        ],
+        "answer": "Efficient",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 2: Principles of Management",
+    "questions": [
+      {
+        "id": "C2Q1",
+        "question": "Assigning specific work to each employee shows:",
+        "options": [
+          "Unity of command",
+          "Division of work",
+          "Discipline",
+          "Order"
+        ],
+        "answer": "Division of work",
+        "marks": 1
+      },
+      {
+        "id": "C2Q2",
+        "question": "Receiving orders from two bosses violates:",
+        "options": [
+          "Unity of direction",
+          "Unity of command",
+          "Authority-responsibility",
+          "Centralisation"
+        ],
+        "answer": "Unity of command",
+        "marks": 1
+      },
+      {
+        "id": "C2Q3",
+        "question": "Right man at right job is:",
+        "options": [
+          "Discipline",
+          "Order",
+          "Equity",
+          "Stability of tenure"
+        ],
+        "answer": "Order",
+        "marks": 1
+      },
+      {
+        "id": "C2Q4",
+        "question": "Employees motivated to work overtime shows:",
+        "options": [
+          "Discipline",
+          "Equity",
+          "Initiative",
+          "Subordination of interest"
+        ],
+        "answer": "Discipline",
+        "marks": 1
+      },
+      {
+        "id": "C2Q5",
+        "question": "Considering employee suggestions reflects:",
+        "options": [
+          "Stability of tenure",
+          "Equity",
+          "Initiative",
+          "Unity of direction"
+        ],
+        "answer": "Initiative",
+        "marks": 1
+      },
+      {
+        "id": "C2Q6",
+        "question": "Fair treatment to workers reflects:",
+        "options": [
+          "Equity",
+          "Order",
+          "Initiative",
+          "Centralisation"
+        ],
+        "answer": "Equity",
+        "marks": 1
+      },
+      {
+        "id": "C2Q7",
+        "question": "Manager delegates and holds responsible shows:",
+        "options": [
+          "Authority with responsibility",
+          "Centralisation",
+          "Initiative",
+          "Order"
+        ],
+        "answer": "Authority with responsibility",
+        "marks": 1
+      },
+      {
+        "id": "C2Q8",
+        "question": "Decision-making concentrated at top is:",
+        "options": [
+          "Centralisation",
+          "Equity",
+          "Unity of command",
+          "Order"
+        ],
+        "answer": "Centralisation",
+        "marks": 1
+      },
+      {
+        "id": "C2Q9",
+        "question": "Offering pension benefits reflects:",
+        "options": [
+          "Discipline",
+          "Stability of tenure",
+          "Initiative",
+          "Cooperation"
+        ],
+        "answer": "Stability of tenure",
+        "marks": 1
+      },
+      {
+        "id": "C2Q10",
+        "question": "Single plan for advertising reflects:",
+        "options": [
+          "Unity of direction",
+          "Unity of command",
+          "Equity",
+          "Initiative"
+        ],
+        "answer": "Unity of direction",
+        "marks": 1
+      },
+      {
+        "id": "C2Q11",
+        "question": "Workers pursuing personal goals violates:",
+        "options": [
+          "Subordination of individual interest",
+          "Unity of direction",
+          "Discipline",
+          "Equity"
+        ],
+        "answer": "Subordination of individual interest",
+        "marks": 1
+      },
+      {
+        "id": "C2Q12",
+        "question": "Joint decision-making committees reflect Taylor’s principle of:",
+        "options": [
+          "Science, not rule of thumb",
+          "Harmony, not discord",
+          "Cooperation, not individualism",
+          "Development of workers"
+        ],
+        "answer": "Cooperation, not individualism",
+        "marks": 1
+      },
+      {
+        "id": "C2Q13",
+        "question": "Using scientific study instead of tradition reflects:",
+        "options": [
+          "Science, not rule of thumb",
+          "Cooperation, not individualism",
+          "Harmony, not discord",
+          "Stability"
+        ],
+        "answer": "Science, not rule of thumb",
+        "marks": 1
+      },
+      {
+        "id": "C2Q14",
+        "question": "Training employees to increase efficiency shows:",
+        "options": [
+          "Development of each worker",
+          "Harmony, not discord",
+          "Cooperation, not individualism",
+          "Discipline"
+        ],
+        "answer": "Development of each worker",
+        "marks": 1
+      },
+      {
+        "id": "C2Q15",
+        "question": "Rewarding team spirit reflects:",
+        "options": [
+          "Harmony, not discord",
+          "Initiative",
+          "Subordination",
+          "Equity"
+        ],
+        "answer": "Harmony, not discord",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 3: Business Environment",
+    "questions": [
+      {
+        "id": "C3Q1",
+        "question": "Liberalisation, privatisation, and globalisation are part of:",
+        "options": [
+          "Industrial Policy 1956",
+          "Economic Policy 1991",
+          "Industrial Policy 1977",
+          "Green Revolution"
+        ],
+        "answer": "Economic Policy 1991",
+        "marks": 1
+      },
+      {
+        "id": "C3Q2",
+        "question": "Demonetisation is an example of:",
+        "options": [
+          "Legal environment",
+          "Political environment",
+          "Economic environment",
+          "Social environment"
+        ],
+        "answer": "Economic environment",
+        "marks": 1
+      },
+      {
+        "id": "C3Q3",
+        "question": "Rising demand for organic food reflects:",
+        "options": [
+          "Economic environment",
+          "Social environment",
+          "Political environment",
+          "Technological environment"
+        ],
+        "answer": "Social environment",
+        "marks": 1
+      },
+      {
+        "id": "C3Q4",
+        "question": "Change in tax policy affects business. Which environment?",
+        "options": [
+          "Political",
+          "Economic",
+          "Legal",
+          "Technological"
+        ],
+        "answer": "Legal",
+        "marks": 1
+      },
+      {
+        "id": "C3Q5",
+        "question": "A mobile company innovates 5G technology. Which environment?",
+        "options": [
+          "Political",
+          "Economic",
+          "Technological",
+          "Legal"
+        ],
+        "answer": "Technological",
+        "marks": 1
+      },
+      {
+        "id": "C3Q6",
+        "question": "Which is not a feature of business environment?",
+        "options": [
+          "Uncertainty",
+          "Complexity",
+          "Dynamic",
+          "Stability"
+        ],
+        "answer": "Stability",
+        "marks": 1
+      },
+      {
+        "id": "C3Q7",
+        "question": "Business environment is a ______ concept.",
+        "options": [
+          "Static",
+          "Continuous",
+          "Fixed",
+          "Limited"
+        ],
+        "answer": "Continuous",
+        "marks": 1
+      },
+      {
+        "id": "C3Q8",
+        "question": "Studying competitors’ strategies reflects environment’s:",
+        "options": [
+          "Interrelatedness",
+          "Specific and general forces",
+          "Dynamic nature",
+          "Complexity"
+        ],
+        "answer": "Complexity",
+        "marks": 1
+      },
+      {
+        "id": "C3Q9",
+        "question": "Swachh Bharat Abhiyan impacted industries. Which environment?",
+        "options": [
+          "Legal",
+          "Social",
+          "Political",
+          "Economic"
+        ],
+        "answer": "Social",
+        "marks": 1
+      },
+      {
+        "id": "C3Q10",
+        "question": "Change in import duties affects:",
+        "options": [
+          "Economic environment",
+          "Social environment",
+          "Legal environment",
+          "Political environment"
+        ],
+        "answer": "Economic environment",
+        "marks": 1
+      },
+      {
+        "id": "C3Q11",
+        "question": "What is the significance of environment study for managers?",
+        "options": [
+          "To reduce complexity",
+          "To cope with change",
+          "To identify opportunities",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "marks": 1
+      },
+      {
+        "id": "C3Q12",
+        "question": "Demographic environment includes:",
+        "options": [
+          "Education levels",
+          "Population size",
+          "Age distribution",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C3Q13",
+        "question": "Launch of digital payment apps after demonetisation shows:",
+        "options": [
+          "Threat only",
+          "Opportunity only",
+          "Both threat and opportunity",
+          "None"
+        ],
+        "answer": "Both threat and opportunity",
+        "marks": 1
+      },
+      {
+        "id": "C3Q14",
+        "question": "Which feature of environment highlights its ever-changing nature?",
+        "options": [
+          "Dynamic",
+          "Complex",
+          "Relative",
+          "Continuous"
+        ],
+        "answer": "Dynamic",
+        "marks": 1
+      },
+      {
+        "id": "C3Q15",
+        "question": "Business environment includes:",
+        "options": [
+          "Only external forces",
+          "Only internal forces",
+          "Both external and internal",
+          "Only political forces"
+        ],
+        "answer": "Only external forces",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 4: Planning",
+    "questions": [
+      {
+        "id": "C4Q1",
+        "question": "Choosing the best alternative among many is called:",
+        "options": [
+          "Decision-making",
+          "Organising",
+          "Controlling",
+          "Staffing"
+        ],
+        "answer": "Decision-making",
+        "marks": 1
+      },
+      {
+        "id": "C4Q2",
+        "question": "Planning reduces the risk of:",
+        "options": [
+          "Certainty",
+          "Uncertainty",
+          "Coordination",
+          "Supervision"
+        ],
+        "answer": "Uncertainty",
+        "marks": 1
+      },
+      {
+        "id": "C4Q3",
+        "question": "Which is not a feature of planning?",
+        "options": [
+          "Goal-oriented",
+          "Continuous",
+          "Flexible",
+          "Static"
+        ],
+        "answer": "Static",
+        "marks": 1
+      },
+      {
+        "id": "C4Q4",
+        "question": "Planning is a ______ function.",
+        "options": [
+          "Middle-level",
+          "Top-level",
+          "All levels",
+          "None"
+        ],
+        "answer": "Top-level",
+        "marks": 1
+      },
+      {
+        "id": "C4Q5",
+        "question": "Which of the following is a limitation of planning?",
+        "options": [
+          "Focus on objectives",
+          "Leads to rigidity",
+          "Provides direction",
+          "Encourages innovation"
+        ],
+        "answer": "Leads to rigidity",
+        "marks": 1
+      },
+      {
+        "id": "C4Q6",
+        "question": "Plans need to be modified due to environmental changes. This reflects:",
+        "options": [
+          "Rigidity",
+          "Flexibility",
+          "Continuity",
+          "Limitation"
+        ],
+        "answer": "Flexibility",
+        "marks": 1
+      },
+      {
+        "id": "C4Q7",
+        "question": "Plans prepared at lower levels are called:",
+        "options": [
+          "Strategic plans",
+          "Standing plans",
+          "Operational plans",
+          "Contingency plans"
+        ],
+        "answer": "Operational plans",
+        "marks": 1
+      },
+      {
+        "id": "C4Q8",
+        "question": "Rules, procedures, and policies are examples of:",
+        "options": [
+          "Single-use plans",
+          "Standing plans",
+          "Operational plans",
+          "None"
+        ],
+        "answer": "Standing plans",
+        "marks": 1
+      },
+      {
+        "id": "C4Q9",
+        "question": "Contingency plans are prepared for:",
+        "options": [
+          "Routine situations",
+          "Uncertain situations",
+          "Day-to-day operations",
+          "Rules and policies"
+        ],
+        "answer": "Uncertain situations",
+        "marks": 1
+      },
+      {
+        "id": "C4Q10",
+        "question": "Which of these is a psychological barrier to effective planning?",
+        "options": [
+          "Costly process",
+          "Resistance to change",
+          "Lack of accuracy",
+          "Complexity"
+        ],
+        "answer": "Resistance to change",
+        "marks": 1
+      },
+      {
+        "id": "C4Q11",
+        "question": "A manager spends too much time in planning and delays action. This limitation is called:",
+        "options": [
+          "Rigidity",
+          "Time-consuming",
+          "Costly",
+          "Mental ability"
+        ],
+        "answer": "Time-consuming",
+        "marks": 1
+      },
+      {
+        "id": "C4Q12",
+        "question": "Planning function is meaningful when linked with:",
+        "options": [
+          "Directing",
+          "Goals",
+          "Staffing",
+          "Controlling"
+        ],
+        "answer": "Goals",
+        "marks": 1
+      },
+      {
+        "id": "C4Q13",
+        "question": "Which plan specifies what is to be done, how, and when?",
+        "options": [
+          "Rule",
+          "Policy",
+          "Procedure",
+          "Method"
+        ],
+        "answer": "Procedure",
+        "marks": 1
+      },
+      {
+        "id": "C4Q14",
+        "question": "Budget is an example of:",
+        "options": [
+          "Single-use plan",
+          "Standing plan",
+          "Contingency plan",
+          "Method"
+        ],
+        "answer": "Single-use plan",
+        "marks": 1
+      },
+      {
+        "id": "C4Q15",
+        "question": "Which feature of planning reduces overlapping of efforts?",
+        "options": [
+          "Continuous",
+          "Goal-oriented",
+          "Planning provides direction",
+          "Reduces risk"
+        ],
+        "answer": "Planning provides direction",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 5: Organising",
+    "questions": [
+      {
+        "id": "C5Q1",
+        "question": "The process of defining authority and responsibility is:",
+        "options": [
+          "Delegation",
+          "Planning",
+          "Staffing",
+          "Coordination"
+        ],
+        "answer": "Delegation",
+        "marks": 1
+      },
+      {
+        "id": "C5Q2",
+        "question": "Grouping similar jobs into departments is called:",
+        "options": [
+          "Departmentalisation",
+          "Specialisation",
+          "Centralisation",
+          "Functionalisation"
+        ],
+        "answer": "Departmentalisation",
+        "marks": 1
+      },
+      {
+        "id": "C5Q3",
+        "question": "Which is not an importance of organising?",
+        "options": [
+          "Clarity of authority",
+          "Optimal resource use",
+          "Rigidity in working",
+          "Specialisation"
+        ],
+        "answer": "Rigidity in working",
+        "marks": 1
+      },
+      {
+        "id": "C5Q4",
+        "question": "Formal organisation is deliberately created by:",
+        "options": [
+          "Workers",
+          "Management",
+          "Customers",
+          "None"
+        ],
+        "answer": "Management",
+        "marks": 1
+      },
+      {
+        "id": "C5Q5",
+        "question": "Network of social relations is called:",
+        "options": [
+          "Formal organisation",
+          "Informal organisation",
+          "Departmentalisation",
+          "Delegation"
+        ],
+        "answer": "Informal organisation",
+        "marks": 1
+      },
+      {
+        "id": "C5Q6",
+        "question": "Which organisation provides stability?",
+        "options": [
+          "Informal",
+          "Formal",
+          "Both",
+          "None"
+        ],
+        "answer": "Formal",
+        "marks": 1
+      },
+      {
+        "id": "C5Q7",
+        "question": "Which organisation helps in quick decision-making?",
+        "options": [
+          "Informal",
+          "Formal",
+          "Both",
+          "None"
+        ],
+        "answer": "Informal",
+        "marks": 1
+      },
+      {
+        "id": "C5Q8",
+        "question": "Delegation involves transfer of:",
+        "options": [
+          "Responsibility only",
+          "Authority only",
+          "Authority and responsibility both",
+          "Authority and accountability both"
+        ],
+        "answer": "Authority and responsibility both",
+        "marks": 1
+      },
+      {
+        "id": "C5Q9",
+        "question": "Accountability arises from:",
+        "options": [
+          "Delegation",
+          "Authority",
+          "Responsibility",
+          "Supervision"
+        ],
+        "answer": "Delegation",
+        "marks": 1
+      },
+      {
+        "id": "C5Q10",
+        "question": "Decentralisation means:",
+        "options": [
+          "Concentration of authority",
+          "Dispersion of authority",
+          "Removal of authority",
+          "Delegation of responsibility"
+        ],
+        "answer": "Dispersion of authority",
+        "marks": 1
+      },
+      {
+        "id": "C5Q11",
+        "question": "Which is not a benefit of decentralisation?",
+        "options": [
+          "Develops initiative among employees",
+          "Reduces workload of top managers",
+          "Facilitates decision-making at lower levels",
+          "Creates rigidity in operations"
+        ],
+        "answer": "Creates rigidity in operations",
+        "marks": 1
+      },
+      {
+        "id": "C5Q12",
+        "question": "Which is broader – delegation or decentralisation?",
+        "options": [
+          "Delegation",
+          "Decentralisation",
+          "Both are same",
+          "None"
+        ],
+        "answer": "Decentralisation",
+        "marks": 1
+      },
+      {
+        "id": "C5Q13",
+        "question": "The starting point of organising process is:",
+        "options": [
+          "Grouping of jobs",
+          "Identification of activities",
+          "Assigning duties",
+          "Establishing relationships"
+        ],
+        "answer": "Identification of activities",
+        "marks": 1
+      },
+      {
+        "id": "C5Q14",
+        "question": "Line authority flows from:",
+        "options": [
+          "Bottom to top",
+          "Top to bottom",
+          "Middle to top",
+          "None"
+        ],
+        "answer": "Top to bottom",
+        "marks": 1
+      },
+      {
+        "id": "C5Q15",
+        "question": "Which principle of organisation suggests that no individual should have more than one boss?",
+        "options": [
+          "Authority-responsibility",
+          "Span of control",
+          "Unity of command",
+          "Balance"
+        ],
+        "answer": "Unity of command",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 6: Staffing",
+    "questions": [
+      {
+        "id": "C6Q1",
+        "question": "Staffing is concerned with:",
+        "options": [
+          "Organising work",
+          "Managing finance",
+          "Managing people",
+          "Planning budgets"
+        ],
+        "answer": "Managing people",
+        "marks": 1
+      },
+      {
+        "id": "C6Q2",
+        "question": "Which function comes after organising?",
+        "options": [
+          "Directing",
+          "Staffing",
+          "Planning",
+          "Controlling"
+        ],
+        "answer": "Staffing",
+        "marks": 1
+      },
+      {
+        "id": "C6Q3",
+        "question": "The first step in staffing is:",
+        "options": [
+          "Training",
+          "Recruitment",
+          "Human resource planning",
+          "Selection"
+        ],
+        "answer": "Human resource planning",
+        "marks": 1
+      },
+      {
+        "id": "C6Q4",
+        "question": "Process of searching potential candidates is:",
+        "options": [
+          "Selection",
+          "Recruitment",
+          "Placement",
+          "Induction"
+        ],
+        "answer": "Recruitment",
+        "marks": 1
+      },
+      {
+        "id": "C6Q5",
+        "question": "Choosing the best out of available candidates is:",
+        "options": [
+          "Recruitment",
+          "Selection",
+          "Staffing",
+          "Induction"
+        ],
+        "answer": "Selection",
+        "marks": 1
+      },
+      {
+        "id": "C6Q6",
+        "question": "A new employee is introduced to the organisation through:",
+        "options": [
+          "Training",
+          "Orientation",
+          "Induction",
+          "Placement"
+        ],
+        "answer": "Induction",
+        "marks": 1
+      },
+      {
+        "id": "C6Q7",
+        "question": "Which test measures a candidate’s potential to learn new skills?",
+        "options": [
+          "Trade test",
+          "Aptitude test",
+          "Interest test",
+          "Personality test"
+        ],
+        "answer": "Aptitude test",
+        "marks": 1
+      },
+      {
+        "id": "C6Q8",
+        "question": "Which source of recruitment is cheaper?",
+        "options": [
+          "Internal",
+          "External",
+          "Both equal",
+          "None"
+        ],
+        "answer": "Internal",
+        "marks": 1
+      },
+      {
+        "id": "C6Q9",
+        "question": "Which is not an external source of recruitment?",
+        "options": [
+          "Advertisement",
+          "Campus recruitment",
+          "Promotion",
+          "Employment exchange"
+        ],
+        "answer": "Promotion",
+        "marks": 1
+      },
+      {
+        "id": "C6Q10",
+        "question": "Training given at actual workplace is called:",
+        "options": [
+          "On-the-job training",
+          "Off-the-job training",
+          "Vestibule training",
+          "Simulation"
+        ],
+        "answer": "On-the-job training",
+        "marks": 1
+      },
+      {
+        "id": "C6Q11",
+        "question": "Apprenticeship is a method of:",
+        "options": [
+          "Off-the-job training",
+          "On-the-job training",
+          "Selection",
+          "Recruitment"
+        ],
+        "answer": "On-the-job training",
+        "marks": 1
+      },
+      {
+        "id": "C6Q12",
+        "question": "Case studies are a method of:",
+        "options": [
+          "On-the-job training",
+          "Off-the-job training",
+          "Recruitment",
+          "Selection"
+        ],
+        "answer": "Off-the-job training",
+        "marks": 1
+      },
+      {
+        "id": "C6Q13",
+        "question": "Which is not an importance of staffing?",
+        "options": [
+          "Optimum utilisation of human resources",
+          "Job satisfaction",
+          "Innovation",
+          "Over-staffing"
+        ],
+        "answer": "Over-staffing",
+        "marks": 1
+      },
+      {
+        "id": "C6Q14",
+        "question": "Job enrichment and job rotation are part of:",
+        "options": [
+          "Training",
+          "Development",
+          "Recruitment",
+          "Selection"
+        ],
+        "answer": "Development",
+        "marks": 1
+      },
+      {
+        "id": "C6Q15",
+        "question": "Which is not a step in the staffing process?",
+        "options": [
+          "Recruitment",
+          "Training",
+          "Motivation",
+          "Selection"
+        ],
+        "answer": "Motivation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 7: Directing",
+    "questions": [
+      {
+        "id": "C7Q1",
+        "question": "Directing is concerned with:",
+        "options": [
+          "Planning activities",
+          "Guiding and motivating employees",
+          "Organising structure",
+          "Monitoring performance"
+        ],
+        "answer": "Guiding and motivating employees",
+        "marks": 1
+      },
+      {
+        "id": "C7Q2",
+        "question": "The best motivation is:",
+        "options": [
+          "Salary increase",
+          "Recognition",
+          "Both monetary and non-monetary",
+          "Strict supervision"
+        ],
+        "answer": "Both monetary and non-monetary",
+        "marks": 1
+      },
+      {
+        "id": "C7Q3",
+        "question": "Directing takes place at:",
+        "options": [
+          "Top level only",
+          "Middle level only",
+          "Lower level only",
+          "All levels of management"
+        ],
+        "answer": "All levels of management",
+        "marks": 1
+      },
+      {
+        "id": "C7Q4",
+        "question": "Motivation is a ______ concept.",
+        "options": [
+          "Financial",
+          "Psychological",
+          "Technical",
+          "Legal"
+        ],
+        "answer": "Psychological",
+        "marks": 1
+      },
+      {
+        "id": "C7Q5",
+        "question": "A leader who gives complete freedom to subordinates follows:",
+        "options": [
+          "Autocratic style",
+          "Democratic style",
+          "Laissez-faire style",
+          "Bureaucratic style"
+        ],
+        "answer": "Laissez-faire style",
+        "marks": 1
+      },
+      {
+        "id": "C7Q6",
+        "question": "Communication starts with:",
+        "options": [
+          "Message",
+          "Sender",
+          "Receiver",
+          "Feedback"
+        ],
+        "answer": "Sender",
+        "marks": 1
+      },
+      {
+        "id": "C7Q7",
+        "question": "Grapevine is a type of:",
+        "options": [
+          "Formal communication",
+          "Informal communication",
+          "Horizontal communication",
+          "Vertical communication"
+        ],
+        "answer": "Informal communication",
+        "marks": 1
+      },
+      {
+        "id": "C7Q8",
+        "question": "Motivation through salary and incentives is:",
+        "options": [
+          "Financial motivation",
+          "Non-financial motivation",
+          "Leadership",
+          "Communication"
+        ],
+        "answer": "Financial motivation",
+        "marks": 1
+      },
+      {
+        "id": "C7Q9",
+        "question": "\"Two-way communication\" is characteristic of:",
+        "options": [
+          "Autocratic leader",
+          "Democratic leader",
+          "Laissez-faire leader",
+          "None"
+        ],
+        "answer": "Democratic leader",
+        "marks": 1
+      },
+      {
+        "id": "C7Q10",
+        "question": "Communication without using words is called:",
+        "options": [
+          "Verbal communication",
+          "Non-verbal communication",
+          "Formal communication",
+          "Informal communication"
+        ],
+        "answer": "Non-verbal communication",
+        "marks": 1
+      },
+      {
+        "id": "C7Q11",
+        "question": "Obstacle in communication due to poor network is:",
+        "options": [
+          "Organisational barrier",
+          "Physical barrier",
+          "Semantic barrier",
+          "Psychological barrier"
+        ],
+        "answer": "Physical barrier",
+        "marks": 1
+      },
+      {
+        "id": "C7Q12",
+        "question": "Fear and mistrust among employees causes:",
+        "options": [
+          "Semantic barriers",
+          "Organisational barriers",
+          "Psychological barriers",
+          "Physical barriers"
+        ],
+        "answer": "Psychological barriers",
+        "marks": 1
+      },
+      {
+        "id": "C7Q13",
+        "question": "Effective leaders focus on:",
+        "options": [
+          "Strict rules only",
+          "Employee satisfaction only",
+          "Both task accomplishment and people",
+          "Profit only"
+        ],
+        "answer": "Both task accomplishment and people",
+        "marks": 1
+      },
+      {
+        "id": "C7Q14",
+        "question": "Directing initiates action by:",
+        "options": [
+          "Providing money",
+          "Motivating and guiding",
+          "Preparing policies",
+          "Planning schedules"
+        ],
+        "answer": "Motivating and guiding",
+        "marks": 1
+      },
+      {
+        "id": "C7Q15",
+        "question": "Communication between peers is:",
+        "options": [
+          "Vertical",
+          "Horizontal",
+          "Diagonal",
+          "Grapevine"
+        ],
+        "answer": "Horizontal",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 8: Controlling",
+    "questions": [
+      {
+        "id": "C8Q1",
+        "question": "The first step in the controlling process is:",
+        "options": [
+          "Measurement of performance",
+          "Setting standards",
+          "Corrective action",
+          "Comparison"
+        ],
+        "answer": "Setting standards",
+        "marks": 1
+      },
+      {
+        "id": "C8Q2",
+        "question": "Comparison of actual and standard performance comes at which stage?",
+        "options": [
+          "First",
+          "Second",
+          "Third",
+          "Last"
+        ],
+        "answer": "Third",
+        "marks": 1
+      },
+      {
+        "id": "C8Q3",
+        "question": "Corrective action is taken when:",
+        "options": [
+          "Standards are achieved",
+          "Deviations exist",
+          "Plans are made",
+          "Goals are set"
+        ],
+        "answer": "Deviations exist",
+        "marks": 1
+      },
+      {
+        "id": "C8Q4",
+        "question": "Control by exception means:",
+        "options": [
+          "Checking all activities",
+          "Checking only major deviations",
+          "Ignoring deviations",
+          "None"
+        ],
+        "answer": "Checking only major deviations",
+        "marks": 1
+      },
+      {
+        "id": "C8Q5",
+        "question": "Budgetary control is a technique of:",
+        "options": [
+          "Planning",
+          "Controlling",
+          "Staffing",
+          "Directing"
+        ],
+        "answer": "Controlling",
+        "marks": 1
+      },
+      {
+        "id": "C8Q6",
+        "question": "The controlling process is closely linked with:",
+        "options": [
+          "Planning",
+          "Staffing",
+          "Organising",
+          "Directing"
+        ],
+        "answer": "Planning",
+        "marks": 1
+      },
+      {
+        "id": "C8Q7",
+        "question": "Which is not a step of controlling?",
+        "options": [
+          "Setting standards",
+          "Comparison",
+          "Organising resources",
+          "Taking corrective action"
+        ],
+        "answer": "Organising resources",
+        "marks": 1
+      },
+      {
+        "id": "C8Q8",
+        "question": "Feedback in controlling helps in:",
+        "options": [
+          "New planning",
+          "Coordination",
+          "Staffing",
+          "Leadership"
+        ],
+        "answer": "New planning",
+        "marks": 1
+      },
+      {
+        "id": "C8Q9",
+        "question": "Non-financial standard can be:",
+        "options": [
+          "Production cost",
+          "Employee satisfaction",
+          "Sales target",
+          "Profits"
+        ],
+        "answer": "Employee satisfaction",
+        "marks": 1
+      },
+      {
+        "id": "C8Q10",
+        "question": "\"Controlling is forward-looking\" means:",
+        "options": [
+          "Correcting past deviations",
+          "Preventing future deviations",
+          "Comparing past results",
+          "None"
+        ],
+        "answer": "Preventing future deviations",
+        "marks": 1
+      },
+      {
+        "id": "C8Q11",
+        "question": "Measuring quality is an example of:",
+        "options": [
+          "Quantitative standard",
+          "Qualitative standard",
+          "Financial standard",
+          "None"
+        ],
+        "answer": "Qualitative standard",
+        "marks": 1
+      },
+      {
+        "id": "C8Q12",
+        "question": "Which is not a technique of managerial control?",
+        "options": [
+          "Budgetary control",
+          "Break-even analysis",
+          "Training programmes",
+          "Internal audit"
+        ],
+        "answer": "Training programmes",
+        "marks": 1
+      },
+      {
+        "id": "C8Q13",
+        "question": "Management by Exception implies managers should:",
+        "options": [
+          "Focus only on routine work",
+          "Focus only on important deviations",
+          "Focus on all deviations",
+          "Avoid deviation analysis"
+        ],
+        "answer": "Focus only on important deviations",
+        "marks": 1
+      },
+      {
+        "id": "C8Q14",
+        "question": "The controlling function ensures:",
+        "options": [
+          "Profits only",
+          "Achievement of organisational goals",
+          "Motivation",
+          "Innovation"
+        ],
+        "answer": "Achievement of organisational goals",
+        "marks": 1
+      },
+      {
+        "id": "C8Q15",
+        "question": "Which principle says \"controlling should match the nature of activity\"?",
+        "options": [
+          "Principle of exception",
+          "Principle of critical point control",
+          "Principle of flexibility",
+          "Principle of objectivity"
+        ],
+        "answer": "Principle of critical point control",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 9: Financial Management",
+    "questions": [
+      {
+        "id": "C9Q1",
+        "question": "The main objective of financial management is:",
+        "options": [
+          "Profit maximisation",
+          "Wealth maximisation",
+          "Sales maximisation",
+          "Cost minimisation"
+        ],
+        "answer": "Wealth maximisation",
+        "marks": 1
+      },
+      {
+        "id": "C9Q2",
+        "question": "Which decision deals with capital structure?",
+        "options": [
+          "Investment decision",
+          "Financing decision",
+          "Dividend decision",
+          "None"
+        ],
+        "answer": "Financing decision",
+        "marks": 1
+      },
+      {
+        "id": "C9Q3",
+        "question": "Dividend decision relates to:",
+        "options": [
+          "Allocation of profits",
+          "Raising funds",
+          "Investing funds",
+          "Managing risks"
+        ],
+        "answer": "Allocation of profits",
+        "marks": 1
+      },
+      {
+        "id": "C9Q4",
+        "question": "Which factor affects financing decision?",
+        "options": [
+          "Cash flow position",
+          "Cost of debt",
+          "Control consideration",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C9Q5",
+        "question": "Retained earnings are a source of:",
+        "options": [
+          "Long-term finance",
+          "Short-term finance",
+          "External finance",
+          "None"
+        ],
+        "answer": "Long-term finance",
+        "marks": 1
+      },
+      {
+        "id": "C9Q6",
+        "question": "Fixed capital investment depends on:",
+        "options": [
+          "Nature of business",
+          "Scale of operations",
+          "Technology used",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C9Q7",
+        "question": "The proportion of debt and equity is called:",
+        "options": [
+          "Capital structure",
+          "Asset structure",
+          "Leverage",
+          "Dividend mix"
+        ],
+        "answer": "Capital structure",
+        "marks": 1
+      },
+      {
+        "id": "C9Q8",
+        "question": "Current assets – current liabilities =",
+        "options": [
+          "Net working capital",
+          "Operating profit",
+          "Cash balance",
+          "Fixed capital"
+        ],
+        "answer": "Net working capital",
+        "marks": 1
+      },
+      {
+        "id": "C9Q9",
+        "question": "Which source of finance has lowest cost?",
+        "options": [
+          "Debt",
+          "Equity",
+          "Retained earnings",
+          "Preference shares"
+        ],
+        "answer": "Debt",
+        "marks": 1
+      },
+      {
+        "id": "C9Q10",
+        "question": "Too much debt increases:",
+        "options": [
+          "Risk",
+          "Profit",
+          "Liquidity",
+          "Dividend"
+        ],
+        "answer": "Risk",
+        "marks": 1
+      },
+      {
+        "id": "C9Q11",
+        "question": "High dividend payout means less:",
+        "options": [
+          "Retained earnings",
+          "Equity capital",
+          "Debt",
+          "Preference shares"
+        ],
+        "answer": "Retained earnings",
+        "marks": 1
+      },
+      {
+        "id": "C9Q12",
+        "question": "A factor affecting dividend decision is:",
+        "options": [
+          "Earnings",
+          "Taxation policy",
+          "Cash flow",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C9Q13",
+        "question": "An investment decision is also called:",
+        "options": [
+          "Capital budgeting",
+          "Capital structuring",
+          "Capital controlling",
+          "Dividend budgeting"
+        ],
+        "answer": "Capital budgeting",
+        "marks": 1
+      },
+      {
+        "id": "C9Q14",
+        "question": "Shareholders’ wealth is maximised by:",
+        "options": [
+          "Reducing dividend",
+          "Maximising firm’s value",
+          "Increasing debt",
+          "Issuing shares"
+        ],
+        "answer": "Maximising firm’s value",
+        "marks": 1
+      },
+      {
+        "id": "C9Q15",
+        "question": "Which is not a financial decision?",
+        "options": [
+          "Investment decision",
+          "Production decision",
+          "Financing decision",
+          "Dividend decision"
+        ],
+        "answer": "Production decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 10: Financial Markets",
+    "questions": [
+      {
+        "id": "C10Q1",
+        "question": "The market for short-term funds is:",
+        "options": [
+          "Capital market",
+          "Money market",
+          "Foreign exchange market",
+          "Stock market"
+        ],
+        "answer": "Money market",
+        "marks": 1
+      },
+      {
+        "id": "C10Q2",
+        "question": "Which is not a money market instrument?",
+        "options": [
+          "Commercial paper",
+          "Treasury bill",
+          "Certificate of deposit",
+          "Equity shares"
+        ],
+        "answer": "Equity shares",
+        "marks": 1
+      },
+      {
+        "id": "C10Q3",
+        "question": "Capital market deals in:",
+        "options": [
+          "Short-term securities",
+          "Long-term securities",
+          "Both",
+          "None"
+        ],
+        "answer": "Long-term securities",
+        "marks": 1
+      },
+      {
+        "id": "C10Q4",
+        "question": "SEBI was established in:",
+        "options": [
+          "1988",
+          "1992",
+          "1990",
+          "1994"
+        ],
+        "answer": "1988",
+        "marks": 1
+      },
+      {
+        "id": "C10Q5",
+        "question": "SEBI was given statutory powers in:",
+        "options": [
+          "1988",
+          "1991",
+          "1992",
+          "1994"
+        ],
+        "answer": "1992",
+        "marks": 1
+      },
+      {
+        "id": "C10Q6",
+        "question": "Functions of SEBI do not include:",
+        "options": [
+          "Protective",
+          "Regulatory",
+          "Developmental",
+          "Manufacturing"
+        ],
+        "answer": "Manufacturing",
+        "marks": 1
+      },
+      {
+        "id": "C10Q7",
+        "question": "The first step in public issue is:",
+        "options": [
+          "Listing",
+          "Prospectus",
+          "Approval by SEBI",
+          "Underwriting"
+        ],
+        "answer": "Approval by SEBI",
+        "marks": 1
+      },
+      {
+        "id": "C10Q8",
+        "question": "Trading in stock exchange takes place through:",
+        "options": [
+          "Brokers",
+          "SEBI",
+          "Company directors",
+          "RBI"
+        ],
+        "answer": "Brokers",
+        "marks": 1
+      },
+      {
+        "id": "C10Q9",
+        "question": "NSE was established in:",
+        "options": [
+          "1990",
+          "1992",
+          "1994",
+          "1996"
+        ],
+        "answer": "1994",
+        "marks": 1
+      },
+      {
+        "id": "C10Q10",
+        "question": "Which is not a component of capital market?",
+        "options": [
+          "Primary market",
+          "Secondary market",
+          "Money market",
+          "None"
+        ],
+        "answer": "Money market",
+        "marks": 1
+      },
+      {
+        "id": "C10Q11",
+        "question": "Treasury bills are issued by:",
+        "options": [
+          "RBI",
+          "SEBI",
+          "Government of India",
+          "Commercial banks"
+        ],
+        "answer": "Government of India",
+        "marks": 1
+      },
+      {
+        "id": "C10Q12",
+        "question": "Secondary market is also called:",
+        "options": [
+          "New issue market",
+          "Old issue market",
+          "Money market",
+          "Capital market"
+        ],
+        "answer": "Old issue market",
+        "marks": 1
+      },
+      {
+        "id": "C10Q13",
+        "question": "Which function of financial market ensures liquidity?",
+        "options": [
+          "Mobilisation of savings",
+          "Price discovery",
+          "Liquidity",
+          "Reduction in transaction cost"
+        ],
+        "answer": "Liquidity",
+        "marks": 1
+      },
+      {
+        "id": "C10Q14",
+        "question": "Commercial paper is issued by:",
+        "options": [
+          "RBI",
+          "Government",
+          "Corporate firms",
+          "SEBI"
+        ],
+        "answer": "Corporate firms",
+        "marks": 1
+      },
+      {
+        "id": "C10Q15",
+        "question": "Which instrument is unsecured?",
+        "options": [
+          "Treasury bill",
+          "Commercial paper",
+          "Call money",
+          "Certificate of deposit"
+        ],
+        "answer": "Commercial paper",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 11: Marketing Management",
+    "questions": [
+      {
+        "id": "C11Q1",
+        "question": "Which of the following is not a function of marketing?",
+        "options": [
+          "Promotion",
+          "Financing",
+          "Distribution",
+          "Controlling"
+        ],
+        "answer": "Controlling",
+        "marks": 1
+      },
+      {
+        "id": "C11Q2",
+        "question": "Marketing focuses on:",
+        "options": [
+          "Product",
+          "Customer needs",
+          "Profit only",
+          "Production only"
+        ],
+        "answer": "Customer needs",
+        "marks": 1
+      },
+      {
+        "id": "C11Q3",
+        "question": "Which concept of marketing is most modern?",
+        "options": [
+          "Selling concept",
+          "Production concept",
+          "Marketing concept",
+          "Product concept"
+        ],
+        "answer": "Marketing concept",
+        "marks": 1
+      },
+      {
+        "id": "C11Q4",
+        "question": "The process of dividing the market into groups is:",
+        "options": [
+          "Market planning",
+          "Market segmentation",
+          "Market analysis",
+          "Marketing research"
+        ],
+        "answer": "Market segmentation",
+        "marks": 1
+      },
+      {
+        "id": "C11Q5",
+        "question": "Product mix means:",
+        "options": [
+          "Different brands",
+          "Number of product lines and items",
+          "Quality of product",
+          "None"
+        ],
+        "answer": "Number of product lines and items",
+        "marks": 1
+      },
+      {
+        "id": "C11Q6",
+        "question": "The most flexible element of marketing mix is:",
+        "options": [
+          "Product",
+          "Price",
+          "Place",
+          "Promotion"
+        ],
+        "answer": "Price",
+        "marks": 1
+      },
+      {
+        "id": "C11Q7",
+        "question": "Advertising is a part of:",
+        "options": [
+          "Pricing mix",
+          "Promotion mix",
+          "Product mix",
+          "Place mix"
+        ],
+        "answer": "Promotion mix",
+        "marks": 1
+      },
+      {
+        "id": "C11Q8",
+        "question": "Sales promotion technique offering free items is called:",
+        "options": [
+          "Rebate",
+          "Discount",
+          "Premium",
+          "Lucky draw"
+        ],
+        "answer": "Premium",
+        "marks": 1
+      },
+      {
+        "id": "C11Q9",
+        "question": "Which is not an element of physical distribution?",
+        "options": [
+          "Transportation",
+          "Warehousing",
+          "Advertising",
+          "Order processing"
+        ],
+        "answer": "Advertising",
+        "marks": 1
+      },
+      {
+        "id": "C11Q10",
+        "question": "Public relations include:",
+        "options": [
+          "Publicity",
+          "Events",
+          "Press relations",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C11Q11",
+        "question": "Branding helps in:",
+        "options": [
+          "Price rigidity",
+          "Differentiation of product",
+          "Elimination of product",
+          "Reduction in quality"
+        ],
+        "answer": "Differentiation of product",
+        "marks": 1
+      },
+      {
+        "id": "C11Q12",
+        "question": "Packaging performs which function?",
+        "options": [
+          "Protection",
+          "Identification",
+          "Convenience",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C11Q13",
+        "question": "Labelling provides:",
+        "options": [
+          "Information about product",
+          "Promotion",
+          "Legal compliance",
+          "All of these"
+        ],
+        "answer": "All of these",
+        "marks": 1
+      },
+      {
+        "id": "C11Q14",
+        "question": "Door-to-door selling is an example of:",
+        "options": [
+          "Advertising",
+          "Personal selling",
+          "Sales promotion",
+          "Public relations"
+        ],
+        "answer": "Personal selling",
+        "marks": 1
+      },
+      {
+        "id": "C11Q15",
+        "question": "Skimming price strategy is suitable when:",
+        "options": [
+          "Competition is low",
+          "Demand is elastic",
+          "Market is highly competitive",
+          "Product is common"
+        ],
+        "answer": "Competition is low",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 12: Consumer Protection",
+    "questions": [
+      {
+        "id": "C12Q1",
+        "question": "Consumer Protection Act was enacted in:",
+        "options": [
+          "1984",
+          "1986",
+          "1991",
+          "1992"
+        ],
+        "answer": "1986",
+        "marks": 1
+      },
+      {
+        "id": "C12Q2",
+        "question": "COPRA was amended in:",
+        "options": [
+          "1991",
+          "1993",
+          "2019",
+          "2020"
+        ],
+        "answer": "2019",
+        "marks": 1
+      },
+      {
+        "id": "C12Q3",
+        "question": "The Consumer Protection Act 2019 provides rights to:",
+        "options": [
+          "Producers",
+          "Consumers",
+          "Distributors",
+          "Marketers"
+        ],
+        "answer": "Consumers",
+        "marks": 1
+      },
+      {
+        "id": "C12Q4",
+        "question": "Which is not a consumer right?",
+        "options": [
+          "Right to safety",
+          "Right to information",
+          "Right to exploit",
+          "Right to be heard"
+        ],
+        "answer": "Right to exploit",
+        "marks": 1
+      },
+      {
+        "id": "C12Q5",
+        "question": "The right ensuring consumer access to variety at fair price is:",
+        "options": [
+          "Right to safety",
+          "Right to be informed",
+          "Right to choose",
+          "Right to seek redressal"
+        ],
+        "answer": "Right to choose",
+        "marks": 1
+      },
+      {
+        "id": "C12Q6",
+        "question": "Right to be protected from hazardous goods is:",
+        "options": [
+          "Right to safety",
+          "Right to be informed",
+          "Right to represent",
+          "Right to choose"
+        ],
+        "answer": "Right to safety",
+        "marks": 1
+      },
+      {
+        "id": "C12Q7",
+        "question": "Consumer Protection Act provides for how many consumer rights?",
+        "options": [
+          "Four",
+          "Five",
+          "Six",
+          "Eight"
+        ],
+        "answer": "Six",
+        "marks": 1
+      },
+      {
+        "id": "C12Q8",
+        "question": "At the district level, consumer disputes are redressed by:",
+        "options": [
+          "District Commission",
+          "State Commission",
+          "National Commission",
+          "Supreme Court"
+        ],
+        "answer": "District Commission",
+        "marks": 1
+      },
+      {
+        "id": "C12Q9",
+        "question": "The maximum value of goods under District Commission is:",
+        "options": [
+          "₹20 lakh",
+          "₹1 crore",
+          "₹50 lakh",
+          "₹2 crore"
+        ],
+        "answer": "₹1 crore",
+        "marks": 1
+      },
+      {
+        "id": "C12Q10",
+        "question": "Which is not a remedy available to consumer?",
+        "options": [
+          "Replacement of product",
+          "Refund of price",
+          "To exploit producer",
+          "Compensation"
+        ],
+        "answer": "To exploit producer",
+        "marks": 1
+      },
+      {
+        "id": "C12Q11",
+        "question": "Advertising misleading claims violates:",
+        "options": [
+          "Right to choose",
+          "Right to be informed",
+          "Right to be heard",
+          "Right to safety"
+        ],
+        "answer": "Right to be informed",
+        "marks": 1
+      },
+      {
+        "id": "C12Q12",
+        "question": "Consumer organisations are examples of:",
+        "options": [
+          "Social responsibility",
+          "Legal protection",
+          "Voluntary organisations",
+          "Government agency"
+        ],
+        "answer": "Voluntary organisations",
+        "marks": 1
+      },
+      {
+        "id": "C12Q13",
+        "question": "\"Jago Grahak Jago\" is a campaign by:",
+        "options": [
+          "SEBI",
+          "Ministry of Consumer Affairs",
+          "RBI",
+          "Companies Act"
+        ],
+        "answer": "Ministry of Consumer Affairs",
+        "marks": 1
+      },
+      {
+        "id": "C12Q14",
+        "question": "Consumer Protection Act applies to:",
+        "options": [
+          "Public sector only",
+          "Private sector only",
+          "All sectors (public, private, cooperative)",
+          "None"
+        ],
+        "answer": "All sectors (public, private, cooperative)",
+        "marks": 1
+      },
+      {
+        "id": "C12Q15",
+        "question": "Filing a complaint in consumer court requires:",
+        "options": [
+          "Heavy fees",
+          "Nominal fees",
+          "No fees",
+          "Penalty"
+        ],
+        "answer": "Nominal fees",
+        "marks": 1
+      }
+    ]
+  }
+]
