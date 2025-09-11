@@ -125,39 +125,36 @@ export default function QAApp() {
 
       {/* On-screen Accordions */}
       {chapter.questions.map((q, idx) => (
-        <Accordion key={q.id} sx={{ mb: 2 }}>
-          <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-            <Typography>
-              {idx + 1}. {q.question}
+        <div key={q.id} sx={{ mb: 2 }}>
+          <Typography>
+            {idx + 1}. {q.question}
+          </Typography>
+
+          <List>
+            {q.options.map((opt, i) => (
+              <ListItem key={i}>
+                <ListItemText
+                  primary={`${String.fromCharCode(97 + i)}) ${opt}`}
+                />
+              </ListItem>
+            ))}
+          </List>
+
+          {!showAnswers[q.id] ? (
+            <div
+              style={{ color: "blue", cursor: "pointer" }}
+              variant="contained"
+              size="small"
+              onClick={() => toggleAnswer(q.id)}
+            >
+              Show Answer
+            </div>
+          ) : (
+            <Typography variant="subtitle1" color="green">
+              Answer: {q.answer}
             </Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <List>
-              {q.options.map((opt, i) => (
-                <ListItem key={i}>
-                  <ListItemText
-                    primary={`${String.fromCharCode(97 + i)}) ${opt}`}
-                  />
-                </ListItem>
-              ))}
-            </List>
-            <Box mt={2}>
-              {!showAnswers[q.id] ? (
-                <Button
-                  variant="contained"
-                  size="small"
-                  onClick={() => toggleAnswer(q.id)}
-                >
-                  Show Answer
-                </Button>
-              ) : (
-                <Typography variant="subtitle1" color="green">
-                  Answer: {q.answer}
-                </Typography>
-              )}
-            </Box>
-          </AccordionDetails>
-        </Accordion>
+          )}
+        </div>
       ))}
 
       {/* Hidden Print Sections */}
