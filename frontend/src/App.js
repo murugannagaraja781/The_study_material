@@ -126,20 +126,14 @@ export default function QAApp() {
       {/* On-screen Accordions */}
       {chapter.questions.map((q, idx) => (
         <div key={q.id} sx={{ mb: 2 }}>
-          <Typography>
-            {idx + 1}. {q.question}
-          </Typography>
-
-          <List>
-            {q.options.map((opt, i) => (
-              <ListItem key={i}>
-                <ListItemText
-                  primary={`${String.fromCharCode(97 + i)}) ${opt}`}
-                />
-              </ListItem>
-            ))}
-          </List>
-
+          {idx + 1}. {q.question}
+          {q.options.map((opt, i) => (
+            <ListItem key={i}>
+              <ListItemText
+                primary={`${String.fromCharCode(97 + i)}) ${opt}`}
+              />
+            </ListItem>
+          ))}
           {!showAnswers[q.id] ? (
             <div
               style={{ color: "blue", cursor: "pointer" }}
