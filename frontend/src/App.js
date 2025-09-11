@@ -128,11 +128,7 @@ export default function QAApp() {
         <div key={q.id} sx={{ mb: 2 }}>
           {idx + 1}. {q.question}
           {q.options.map((opt, i) => (
-            <ListItem key={i}>
-              <ListItemText
-                primary={`${String.fromCharCode(97 + i)}) ${opt}`}
-              />
-            </ListItem>
+            <ListItemText primary={`${String.fromCharCode(97 + i)}) ${opt}`} />
           ))}
           {!showAnswers[q.id] ? (
             <div
@@ -158,16 +154,10 @@ export default function QAApp() {
           <h2>{chapter.chapter}</h2>
           {chapter.questions.map((q, idx) => (
             <div key={q.id} className="question">
-              <p>
-                <b>
-                  {idx + 1}. {q.question}
-                </b>
-              </p>
-              <ul>
-                {q.options.map((opt, i) => (
-                  <li key={i}>{`${String.fromCharCode(97 + i)}) ${opt}`}</li>
-                ))}
-              </ul>
+              {idx + 1}.{q.question}
+              {q.options.map((opt, i) => (
+                <li key={i}>{`${String.fromCharCode(97 + i)}) ${opt}`}</li>
+              ))}
               <p className="answer">Answer: {q.answer}</p>
             </div>
           ))}
